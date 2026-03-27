@@ -1,12 +1,18 @@
-# Sugarcane-Extractor-Design
+# Project Sugarcane Juice Extractor Machine Design
 
-Engineering design documents and technical specifications for an automated sugarcane juice extractor. This project focuses on mechanical design, safety, and efficiency.
+Cad designs and documentation for a Sugarcane Juice Extractor machine.
 
-## ┬┐ Project Scope
-This repository contains the conceptual and technical designs for a modern sugarcane extractor machine, including component selection and structural analysis.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `docs/`: Technical reports and design drawings in PDF format.
+## Tech Stack
+- **Primary**: Cad
+- **Domain**: Mechanical Design
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
